@@ -1,0 +1,26 @@
+# Node modules folder
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Environment variables
+.env
+
+# Coverage directory for code coverage reports
+coverage/
+
+# Build files
+dist/
+
+# Temporary files
+temp/
